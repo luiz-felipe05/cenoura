@@ -1,0 +1,8 @@
+{
+  "name": "Cenoura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "7cef9798"
+}
